@@ -13,6 +13,7 @@ If you find this repository or our survey helpful for your research, please cons
   journal={ACM Computing Surveys},
   year={2026}
 }
+```
 
 ## 📑 Table of Contents
 
@@ -94,6 +95,3 @@ Utilizing deep generative models to synthesize or manipulate hyper-realistic mul
 
 ## 🤝 Contributing & Contact
 We welcome pull requests to keep this repository updated with the latest research in the field! If you have any questions, please feel free to open an issue or contact the authors.
-```
-
-Would you like me to guide you through pushing this initial `README.md` to your GitHub repository, or would you prefer to start formatting the paper citations for the first section?
